@@ -1,0 +1,10 @@
+example1.txt 5 E101 Indentation contains mixed spaces and tabs
+example1.txt 6 E101 Indentation contains mixed spaces and tabs
+example1.txt 7 E111 Indentation is not a multiple of four
+example1.txt 4 E201 Whitespace after "("
+example1.txt 4 E202 Whitespace before ")"
+example1.txt 4 E203 Whitespace before ":"
+example1.txt 1 E401 Multiple imports on one line
+example1.txt 6 E501 Line is too long (maximum 79 characters)
+example1.txt 5 W191 Indentation contains tabs
+example1.txt 6 W191 Indentation contains tabs

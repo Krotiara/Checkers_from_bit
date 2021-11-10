@@ -1,0 +1,3 @@
+example2.txt 10 W292 No newline at end of file
+example2.txt 1 StylisticError2 Class names should use CamelCase convention
+example2.txt 2 StylisticError1 Function names should be lowercase

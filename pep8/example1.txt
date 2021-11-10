@@ -1,0 +1,8 @@
+﻿import os, sys
+
+
+def donuts( count ) :
+	if count < 10:
+	    return "Number of donuts kfdvmkldfvmdkfmvdkfvmkdlmvldmflmkvmkldmvkfmdlmvkldfmvdlkfmvldkfmvdlkfvmdfkl: {0}".format(count)
+     else:
+        return "Number of donuts: many"
